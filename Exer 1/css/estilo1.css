@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(235, 233, 225);
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(39, 63, 85);
+    color: white;
+    height: 50px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+}
+
+#principal{
+    width: 800px;
+    margin: auto;
+
+} 
+
+figure{
+    background-color: white;
+    width: 480px;
+    margin: 15px auto;
+    border: 2px solid rgb(39, 63, 85);
+    padding: 10px; 
+}
+
+figcaption{
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+}
+
+footer{
+    background-color: rgb(39, 63, 85);
+    color: white;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
